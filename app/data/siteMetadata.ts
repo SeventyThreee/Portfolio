@@ -1,0 +1,26 @@
+export const siteMetadata = {
+  title: "JeevaKrishna",
+  author: "JeevaKrishna",
+  headerTitle: "JeevaKrishna's Portfolio",
+  description:
+    "I'm JeevaKrishna, a senior front-end engineer, blogger and international speaker. Welcome to my corner of the internet!",
+  language: "en-us",
+  siteUrl: "https://jeevakrishna.dev",
+  siteRepo: "https://github.com/jeevakrishna",
+  avatarImage: "#",
+  socialBanner: "#",
+  email: "mailto:jeevakrishna073@gmail.com",
+  github: "https://github.com/Jeevakrishna",
+  twitter: "https://x.com/Jeevakrish73",
+  twitterHandle: "@Jeevakrish73",
+  codepen: "#",
+  linkedin: "https://www.linkedin.com/in/jeevakrishna73/",
+  resume: "/resume/JeevaKrishna-Resume.pdf",
+  snippets: "#",
+  carbonCode: "#",
+  carbonPlacement: "JeevaKrishna",
+  locale: "en-US",
+  analytics: {
+    plausibleDataDomain: "jeevakrishna.dev",
+  },
+};
